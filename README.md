@@ -1,13 +1,7 @@
 # Webscraping-for-Strategic-Pricing-and-Competitive-Procurement-in-the-Physician-Services-Market
-Webscraping tool utilized for a research publication for: Strategic Pricing and Competitive Procurement in the Physician Services Market authored by:
-Guy Arie
-University of Rochester - Simon Business School
+Webscraping tool utilized for a research publication for: Strategic Pricing and Competitive Procurement in the Physician Services Market
+(Source:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2863979)
 
-Alon Bergman
-University of Pennsylvania - The Wharton School; University of Pennsylvania - Leonard Davis Institute of Health Economics
-
-Gerard J. Wedig
-University of Rochester - Simon Business School
 
 This tool was created by Sean Bajwa and Jeremiah Bill at the University of Rochester in 2018.
 
